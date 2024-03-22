@@ -68,7 +68,7 @@ body {
     font-size: 20px; /* ナビゲーションメニューのフォントサイズ */
   }
 
-  #work {
+  #experiences {
     text-align: center; /* セクション内の要素を中央に配置 */
     margin: 100px auto; /* セクションの上下に余白を設定し、水平方向に中央揃え */
     background-color: #f2f2f2; /* 薄い灰色 */
@@ -77,7 +77,7 @@ body {
   } 
 
   /*なんでulでいけてるかわかんないflexは適用されてないけど*/
-  #work ul {
+  #experiences ul {
     text-align: center; /* セクション内の要素を中央に配置 */
     margin: 100px auto; /* セクションの上下に余白を設定し、水平方向に中央揃え */
     width: 100%; /* セクションの最大幅を設定 */
@@ -87,7 +87,7 @@ body {
     padding: 0;
   }
 
-  #work img {
+  #experiences img {
     margin: 30px 30px; /* 画像間の右側余白を設定 */
     margin-bottom: 30px; /* 画像の下側余白を設定 */
     max-width: calc(50% - 10px); /* 画像の幅を50%に設定し、マージンを考慮して調整 */
